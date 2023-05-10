@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+div {
+    text-align: center;
+    margin: 0  auto;
+    border-top: 1px solid #80808034;
+    padding: 50px;
+   
+}
+
+h1 {
+    font-family: Verdana;
+}
+
+img {
+    width: 200px;
+}
+
+h2 {
+    font-family: Verdana;
+}
+
+p {
+   font-family: Verdana;
+   width: 930px;
+   margin: 30px auto;
+   
+  
+ 
+}
+
+a {
+    background-color: #0fb30f;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana;
+    padding: 7px 15px;
+    text-decoration: none;
+    border-radius: 20px;
+
+}
+
+h3 {
+    font-family: Verdana;
+}
+
+span {
+    font-weight: bold;
+}
+
+
+
